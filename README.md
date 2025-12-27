@@ -33,7 +33,7 @@
   <img height="180" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&hide_border=true&title_color=f4cd7c&icon_color=f4cd7c&text_color=fff&bg_color=0d1117">
   <br>
   <br>
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FrostyCard&theme=jolly)
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FrostyCard&theme=jolly"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
