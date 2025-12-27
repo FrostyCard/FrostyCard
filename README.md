@@ -85,8 +85,10 @@
 
 <br>
 
+
+
 <div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/frostycard&style=flat-square" /></p> 
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=frostycard&color=blueviolet" /></p> 
 </div>
 
 <br>
