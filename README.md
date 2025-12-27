@@ -73,7 +73,7 @@
         ♡ <a href="https://rentry.co/">rentry</a> ⊹
         <a href="https://linktr.ee/">linktr.ee</a> ⊹
         <a href="https://">carrd.co</a> ⊹
-        <a href="">notion</a> ♡
+        <a href="https://google.com">notion</a> ♡
       </samp>
   </p>
 </div>
