@@ -86,7 +86,7 @@
 <br>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?FrostyCardvm&style=flat-square&color=755b25" /></p> 
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?FrostyCard&style=flat-square" /></p> 
 </div>
 
 <br>
