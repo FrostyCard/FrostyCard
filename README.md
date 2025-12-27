@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="[https://imgur.com/aXIQLp8.png](https://imgur.com/gallery/s-gonna-be-good-day-get-that-coffee-oU7ipjo#/t/furry)" />
+  <img align="center" height="150" src="https://imgur.com/a/3otIcLF" />
 </div>
 
 <div align="center">
