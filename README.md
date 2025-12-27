@@ -29,7 +29,7 @@
 <br>
       
 <div align="center">
-  <img height="165" align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FrostyCard&theme=jolly">
+  <img height="165" align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FrostyCard&theme=jolly">
   <img height="180" align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FrostyCard&theme=joll">
   <br>
   <br>
